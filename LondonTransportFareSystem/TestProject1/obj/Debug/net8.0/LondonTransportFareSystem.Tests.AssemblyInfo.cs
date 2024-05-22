@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LondonTransportFareSystem.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7de016d4c5bf88b857bb3308599dc971d50a19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f7ce3e0e278e737fbc5fb2b125ff3f8354712cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LondonTransportFareSystem.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LondonTransportFareSystem.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

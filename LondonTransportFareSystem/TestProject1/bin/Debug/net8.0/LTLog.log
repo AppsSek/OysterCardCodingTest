@@ -80,3 +80,23 @@
 2024-05-19 09:32:07,369 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:fd45b899-aceb-4450-a042-d2cf5685ed6c
 2024-05-19 09:32:07,587 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
    at LondonTransportFareSystem.DAL.CustomerTransactionDAL.GetCurrentBalance(Guid customerId) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 43
+2024-05-22 15:45:53,472 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-958f-2258ee9fcd6f
+2024-05-22 15:45:53,475 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name '_1'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.SwipeOut(Guid customerId, Int32 mode, Nullable`1 stationId) in C:\Users\aparna.sekar\source\repos\OysterCardCodingTest\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 129
+ClientConnectionId:be397fb7-825c-45b0-aebe-e8d991d41abb
+Error Number:207,State:1,Class:16
+2024-05-22 15:45:53,478 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while swiping OUT for customer id:4a5c7fb8-f1f1-4aea-958f-2258ee9fcd6f
+2024-05-22 15:45:53,478 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name '_1'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.SwipeOut(Guid customerId, Int32 mode, Nullable`1 stationId) in C:\Users\aparna.sekar\source\repos\OysterCardCodingTest\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 138
+   at LondonTransportFareSystem.BLL.Transaction.SwipeOut(Guid customerId, Int32 modeId, Int32 stationId) in C:\Users\aparna.sekar\source\repos\OysterCardCodingTest\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 93
+ClientConnectionId:be397fb7-825c-45b0-aebe-e8d991d41abb
+Error Number:207,State:1,Class:16

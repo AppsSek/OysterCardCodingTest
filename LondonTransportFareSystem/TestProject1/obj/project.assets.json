@@ -4316,11 +4316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DTS_Interview\\LondonTransportFareSystem\\TestProject1\\LondonTransportFareSystem.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\aparna.sekar\\source\\repos\\OysterCardCodingTest\\LondonTransportFareSystem\\TestProject1\\LondonTransportFareSystem.Tests.csproj",
       "projectName": "LondonTransportFareSystem.Tests",
-      "projectPath": "C:\\DTS_Interview\\LondonTransportFareSystem\\TestProject1\\LondonTransportFareSystem.Tests.csproj",
+      "projectPath": "C:\\Users\\aparna.sekar\\source\\repos\\OysterCardCodingTest\\LondonTransportFareSystem\\TestProject1\\LondonTransportFareSystem.Tests.csproj",
       "packagesPath": "C:\\Users\\aparna.sekar\\.nuget\\packages\\",
-      "outputPath": "C:\\DTS_Interview\\LondonTransportFareSystem\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\aparna.sekar\\source\\repos\\OysterCardCodingTest\\LondonTransportFareSystem\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aparna.sekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4337,8 +4337,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\LondonTransportFareSystem.csproj": {
-              "projectPath": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\LondonTransportFareSystem.csproj"
+            "C:\\Users\\aparna.sekar\\source\\repos\\OysterCardCodingTest\\LondonTransportFareSystem\\LondonTransportFareSystem\\LondonTransportFareSystem.csproj": {
+              "projectPath": "C:\\Users\\aparna.sekar\\source\\repos\\OysterCardCodingTest\\LondonTransportFareSystem\\LondonTransportFareSystem\\LondonTransportFareSystem.csproj"
             }
           }
         }

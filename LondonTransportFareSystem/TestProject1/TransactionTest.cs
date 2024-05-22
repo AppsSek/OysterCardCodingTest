@@ -30,8 +30,19 @@ namespace TestProject1
         /// 
         /// </summary>
         /// 
-
         [TestMethod]
+        public void TestMethod_TestAll()
+        {
+            TestMethod_TopUpAccount_ValidID_ZeroOrPostiveExistingBalance_Successful();
+            TestMethod_SwipeIn_ValidID_FirstTrip_ByTube_FromHolBorn();
+            TestMethod_SwipeOut_ValidID_FirstTrip_ByTube_ToEarlsCourt();
+            TestMethod_SwipeIn_ValidID_SecondTrip_ByBus_FromEarlsCourtToChelsea();
+            TestMethod_SwipeIn_ValidID_ThirdTrip_ByTube_FromEalsCourt();
+            TestMethod_SwipeOut_ValidID_ThirdTrip_ByTube_ToHammersmith();
+            TestMethod_ShowBalance_Valid_Successful();
+        }
+
+
         public void TestMethod_TopUpAccount_ValidID_ZeroOrPostiveExistingBalance_Successful()
         {
             SetUp();
@@ -39,7 +50,6 @@ namespace TestProject1
             Assert.AreEqual(balance, 30);
         }
 
-        [TestMethod]
         public void TestMethod_SwipeIn_ValidID_FirstTrip_ByTube_FromHolBorn()
         {
             SetUp();
@@ -47,7 +57,7 @@ namespace TestProject1
             Assert.AreEqual(true,isAllowed);
         }
 
-        [TestMethod]
+
         public void TestMethod_SwipeOut_ValidID_FirstTrip_ByTube_ToEarlsCourt()
         {
             SetUp();
@@ -55,7 +65,7 @@ namespace TestProject1
             Assert.AreEqual(true, isAllowed);
         }
 
-        [TestMethod]
+
         public void TestMethod_SwipeIn_ValidID_SecondTrip_ByBus_FromEarlsCourtToChelsea()
         {
             SetUp();
@@ -63,7 +73,6 @@ namespace TestProject1
             Assert.AreEqual(true, isAllowed);
         }
 
-        [TestMethod]
         public void TestMethod_SwipeIn_ValidID_ThirdTrip_ByTube_FromEalsCourt()
         {
             SetUp();
@@ -71,7 +80,7 @@ namespace TestProject1
             Assert.AreEqual(true, isAllowed);
         }
 
-        [TestMethod]
+
         public void TestMethod_SwipeOut_ValidID_ThirdTrip_ByTube_ToHammersmith()
         {
             SetUp();
@@ -79,7 +88,7 @@ namespace TestProject1
             Assert.AreEqual(true, isAllowed);
         }
 
-        [TestMethod]
+
         public void TestMethod_ShowBalance_Valid_Successful()
         {
             SetUp();
