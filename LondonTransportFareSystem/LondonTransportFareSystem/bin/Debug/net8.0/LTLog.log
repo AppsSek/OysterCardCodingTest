@@ -1,0 +1,10 @@
+2024-05-18 20:01:13,578 [17] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-958f-2258ee9fcd6f
+2024-05-18 20:01:13,592 [17] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Microsoft.Data.SqlClient.SqlConnection.PermissionDemand()
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.getCurrentBalance(Guid customerId) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 38

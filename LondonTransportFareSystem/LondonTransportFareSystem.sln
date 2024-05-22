@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LondonTransportFareSystem", "LondonTransportFareSystem\LondonTransportFareSystem.csproj", "{123D29F5-5830-4AF2-9253-59D6205F853D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LondonTransportFareSystem.Tests", "TestProject1\LondonTransportFareSystem.Tests.csproj", "{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123D29F5-5830-4AF2-9253-59D6205F853D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123D29F5-5830-4AF2-9253-59D6205F853D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123D29F5-5830-4AF2-9253-59D6205F853D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123D29F5-5830-4AF2-9253-59D6205F853D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56879D15-46EA-4244-B540-8FEF77CEB5D4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,82 @@
+2024-05-19 08:00:29,087 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 08:00:29,516 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 26
+2024-05-19 08:06:46,172 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 08:06:46,316 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 26
+2024-05-19 08:54:47,380 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 08:54:47,831 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 26
+2024-05-19 08:56:46,937 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 08:56:47,059 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 26
+2024-05-19 08:57:59,739 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 08:57:59,840 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 26
+2024-05-19 09:03:34,430 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:03:34,435 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:05:08,800 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:05:08,803 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:05:43,667 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:05:43,671 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:05:47,547 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:2c4e5492-46fa-40f2-9d25-58a65370c08a for amount 0
+2024-05-19 09:05:47,547 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:08:55,343 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:08:55,346 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:09:39,853 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:09:39,856 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:09:40,027 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f
+2024-05-19 09:09:40,027 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 71
+2024-05-19 09:10:01,060 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:10:01,063 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:10:16,263 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f
+2024-05-19 09:10:17,329 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 71
+2024-05-19 09:13:00,546 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f
+2024-05-19 09:13:00,701 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 71
+2024-05-19 09:13:02,603 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f for amount 30
+2024-05-19 09:13:02,816 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 79
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 30
+2024-05-19 09:13:28,472 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f
+2024-05-19 09:13:28,666 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 71
+2024-05-19 09:13:31,728 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f for amount 30
+2024-05-19 09:13:32,046 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 79
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 30
+2024-05-19 09:16:29,470 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f
+2024-05-19 09:16:29,671 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 71
+2024-05-19 09:16:31,039 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f for amount 30
+2024-05-19 09:16:31,232 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 79
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 30
+2024-05-19 09:16:57,693 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:16:57,698 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:17:10,677 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:00000000-0000-0000-0000-000000000000 for amount 30
+2024-05-19 09:17:10,681 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:17:10,824 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f
+2024-05-19 09:17:10,824 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 71
+2024-05-19 09:17:10,824 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:4a5c7fb8-f1f1-4aea-558f-2258ee9fcd6f for amount 30
+2024-05-19 09:17:10,824 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 79
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 30
+2024-05-19 09:17:10,826 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - Exception occured while topping up for customer id:beaf0634-9f4d-4826-a02e-4ed4036d9928 for amount 0
+2024-05-19 09:17:10,826 [.NET Long Running Task] ERROR LondonTransportFareSystem.BLL.Transaction - System.Exception: Invalid customer Id or amount!!
+   at LondonTransportFareSystem.BLL.Transaction.TopUpAccount(Guid customerId, Decimal amount) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\BLL\Transaction.cs:line 28
+2024-05-19 09:32:07,369 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - Exception occured while showing balance for customer id:fd45b899-aceb-4450-a042-d2cf5685ed6c
+2024-05-19 09:32:07,587 [.NET Long Running Task] ERROR LondonTransportFareSystem.DAL.CustomerTransactionDAL - System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.Decimal'.
+   at LondonTransportFareSystem.DAL.CustomerTransactionDAL.GetCurrentBalance(Guid customerId) in C:\DTS_Interview\LondonTransportFareSystem\LondonTransportFareSystem\DAL\CustomerTransactionDAL.cs:line 43

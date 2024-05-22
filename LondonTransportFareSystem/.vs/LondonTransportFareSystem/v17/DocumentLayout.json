@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DTS_Interview\\LondonTransportFareSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}|TestProject1\\LondonTransportFareSystem.Tests.csproj|c:\\dts_interview\\londontransportfaresystem\\testproject1\\transactiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC3B1AE0-5903-4673-94A8-3A0A402FB0AB}|TestProject1\\LondonTransportFareSystem.Tests.csproj|solutionrelative:testproject1\\transactiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123D29F5-5830-4AF2-9253-59D6205F853D}|LondonTransportFareSystem\\LondonTransportFareSystem.csproj|c:\\dts_interview\\londontransportfaresystem\\londontransportfaresystem\\bll\\processtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123D29F5-5830-4AF2-9253-59D6205F853D}|LondonTransportFareSystem\\LondonTransportFareSystem.csproj|solutionrelative:londontransportfaresystem\\bll\\processtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123D29F5-5830-4AF2-9253-59D6205F853D}|LondonTransportFareSystem\\LondonTransportFareSystem.csproj|c:\\dts_interview\\londontransportfaresystem\\londontransportfaresystem\\bll\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123D29F5-5830-4AF2-9253-59D6205F853D}|LondonTransportFareSystem\\LondonTransportFareSystem.csproj|solutionrelative:londontransportfaresystem\\bll\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123D29F5-5830-4AF2-9253-59D6205F853D}|LondonTransportFareSystem\\LondonTransportFareSystem.csproj|c:\\dts_interview\\londontransportfaresystem\\londontransportfaresystem\\controllers\\transportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123D29F5-5830-4AF2-9253-59D6205F853D}|LondonTransportFareSystem\\LondonTransportFareSystem.csproj|solutionrelative:londontransportfaresystem\\controllers\\transportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 368,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessTransaction.cs",
+              "DocumentMoniker": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\BLL\\ProcessTransaction.cs",
+              "RelativeDocumentMoniker": "LondonTransportFareSystem\\BLL\\ProcessTransaction.cs",
+              "ToolTip": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\BLL\\ProcessTransaction.cs",
+              "RelativeToolTip": "LondonTransportFareSystem\\BLL\\ProcessTransaction.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:38:03.421Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransportController.cs",
+              "DocumentMoniker": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\Controllers\\TransportController.cs",
+              "RelativeDocumentMoniker": "LondonTransportFareSystem\\Controllers\\TransportController.cs",
+              "ToolTip": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\Controllers\\TransportController.cs",
+              "RelativeToolTip": "LondonTransportFareSystem\\Controllers\\TransportController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:29:20.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\BLL\\Transaction.cs",
+              "RelativeDocumentMoniker": "LondonTransportFareSystem\\BLL\\Transaction.cs",
+              "ToolTip": "C:\\DTS_Interview\\LondonTransportFareSystem\\LondonTransportFareSystem\\BLL\\Transaction.cs",
+              "RelativeToolTip": "LondonTransportFareSystem\\BLL\\Transaction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:45:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionTest.cs",
+              "DocumentMoniker": "C:\\DTS_Interview\\LondonTransportFareSystem\\TestProject1\\TransactionTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TransactionTest.cs",
+              "ToolTip": "C:\\DTS_Interview\\LondonTransportFareSystem\\TestProject1\\TransactionTest.cs",
+              "RelativeToolTip": "TestProject1\\TransactionTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:58:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
